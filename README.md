@@ -60,8 +60,7 @@ I suggest that Microsoft focus on the top five genres, and avoid the bottom five
 
 ![graph1](./images/principals.png)
 
-The top 
-writers are:
+The top writers are:
 - Stan Lee
 - Jack Kirby
 
@@ -75,9 +74,9 @@ The top actors/actresses are:
  - Robert Downey Jr
  
 The top producer is:
- - Peter Chermin
+ - Peter Chernin
 
-To the extent that it can afford these writers, producers, and actors/actresses, Microsoft should consider hiring them as they appear to be the most successful, and the data suggests that they would be the safest bets.
+Unfortunately, Stan Lee and Jack Kirby are no longer available, but to the extent that Microsoft can afford them, it should consider hiring the actors/actresses identified above and Peter Chernin to produce the film as these individuals appear to be the most successful, and the data suggests that they would be the safest bets.
 
 
 ## Conclusions
@@ -85,11 +84,11 @@ To the extent that it can afford these writers, producers, and actors/actresses,
 I provide the following three recommendations to Microsoft:
  - Focus on the following five movie genres: Adventure, Animation, Fantasy, Sci-Fi and Action.
  - Avoid the following five movie genres: War, Western, Biography, History and Sport.
- - If possible, hire Stan Lee or Jack Kirby to write the movie script, hire Peter Chermin to produce the movie, and include one or more of the following actors/actresses: Amy Adams, Andy Serkis, Bradley Cooper, Jennifer Lawrence, John Goodman, Leonardo DiCaprio, Robert Downey Jr.
+ - If possible, Peter Chernin to produce the movie, and include one or more of the following actors/actresses: Amy Adams, Andy Serkis, Bradley Cooper, Jennifer Lawrence, John Goodman, Leonardo DiCaprio, Robert Downey Jr.
  
 ### Next Steps
  - A number of the films relate to multiple genres.  For example, of the top five films by revenue, three were Action, Adventure and Sci-Fi while the other two were Adventure, Animation and Comedy.  I recommend we further analyze the films based on groups of genres rather than looking at them individually.
- - Similarly, I recommend we further analyze the films based on the different groups of principals that were involved with each film.
+ - I also recommend analyzing why certain principals were prevalent in the unsuccessful films to determine why these individuals appear frequently in this category.
  - Finally, if Microsoft has a specific budget in mind, we can analyze all of the films within Microsoft's budget to determine what trends exist within those movies specifically
 
 
