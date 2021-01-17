@@ -60,7 +60,8 @@ I suggest that Microsoft focus on the top five genres, and avoid the bottom five
 
 ![graph1](./images/principals.png)
 
-The top writers are:
+The top 
+writers are:
 - Stan Lee
 - Jack Kirby
 
@@ -76,22 +77,8 @@ The top actors/actresses are:
 The top producer is:
  - Peter Chermin
 
-To the extent that it can afford these writers, producers, and actors/actresses, Microsoft should consider hiring them as they appear to be the most successful, and the data suggests that they would be the safest bets.  Similarly, I would avoid the following individuals who have been less successful:
+To the extent that it can afford these writers, producers, and actors/actresses, Microsoft should consider hiring them as they appear to be the most successful, and the data suggests that they would be the safest bets.
 
-Producers:
- - Jason Blum
- - Tim Bevan
- - Eric Fellner
- 
-Actors:
- - Owen Wilson
- - Matt Damon
- - Robert De Niro
- - Steve Carell
- - Casey Affleck
- - Johnny Depp
- - Miles Teller
- - Zac Efron
 
 ## Conclusions
 
@@ -109,7 +96,7 @@ I provide the following three recommendations to Microsoft:
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review my full analysis in [my Jupyter Notebook](./Microsoft_Detailed_Analysis.ipynb) or my [presentation](./Microsoft_presentation.pdf).
 
 For any additional questions, please contact **Marina Saito at saito.mn@gmail.com**
 
@@ -119,7 +106,7 @@ Describe the structure of your repository and its contents, for example:
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── Microsoft Detailed Analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── Microsoft_Detailed_Analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
 ├── Microsoft_presentation.pdf          <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
